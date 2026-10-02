@@ -1,0 +1,12 @@
+# Input media is not redistributed; see data/README.md
+*.wav
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.png
+
+# MATLAB autosave / editor / OS
+*.asv
+*.autosave
+.DS_Store
